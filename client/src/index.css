@@ -198,10 +198,13 @@ button:hover {
   border-color: #aacbff;
 }
 html, body, #root {
-  background-color: #d42d74 !important;
+  background-color: #1E3A8A !important;
+  color: #ffffff !important; /* <-- white text */
   min-height: 100vh;
 }
+
 * {
-  background-color: #d42d74 !important;
+  background-color: #1E3A8A !important;
   font-family: 'Poppins', sans-serif !important;
+  color: #ffffff !important;  /* Apply white text globally */
 }
