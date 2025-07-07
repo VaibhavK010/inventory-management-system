@@ -61,7 +61,7 @@
    JWT_SECRET=your_secret_key
 ```
 
-3. Install the dependencies and run backend
+3. Install the dependencies and run the backend
 
 ```bash
 
